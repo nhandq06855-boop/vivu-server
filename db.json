@@ -2,9 +2,9 @@
   "reviews": [
     {
       "id": 1,
-      "title": "Cà phê trứng Giảng Võ",
-      "location": "Hà Nội",
-      "description": "Một góc quán nhỏ nhưng ấm cúng. Cà phê trứng ở đây béo ngậy, không bị tanh chút nào. Chủ quán rất thân thiện, nhạc Trịnh du dương hợp mood những ngày mưa.",
+      "title": "Giang Vo Egg Coffee",
+      "location": "Hanoi",
+      "description": "A small but cozy corner. The egg coffee here is creamy and not fishy at all. The owner is very friendly, melodious Trinh music fits the mood on rainy days.",
       "image": "https://nhaphonet.vn/wp-content/uploads/2023/04/ca-phe-trung-giang-4.jpg",
       "date": "2025-12-17T08:30:00.000Z",
       "author": "NhanDQ",
@@ -13,7 +13,7 @@
         {
           "id": 1,
           "rating": 5,
-          "comment": "Quán tủ của mình, trứng đánh rất bông!",
+          "comment": "My favorite spot, the egg foam is beaten very fluffy!",
           "author": "Minh Anh",
           "date": "2025-12-17T09:00:00.000Z"
         }
@@ -21,9 +21,9 @@
     },
     {
       "id": 2,
-      "title": "Săn mây Cầu Đất",
-      "location": "Đà Lạt",
-      "description": "Dậy từ 4h sáng để đi săn mây là một trải nghiệm đáng giá. Biển mây bồng bềnh dưới chân đồi chè xanh ngát. Lưu ý là đường đi khá lạnh và sương mù dày, mọi người nhớ mặc ấm.",
+      "title": "Cloud Hunting at Cau Dat",
+      "location": "Da Lat",
+      "description": "Waking up at 4am to hunt clouds is a worthwhile experience. A sea of clouds floats beneath the green tea hills. Note that the road is quite cold and foggy, everyone remember to dress warmly.",
       "image": "https://media.mia.vn/uploads/blog-du-lich/Cau-go-san-may-dalat-tien-canh-tuyet-dep-cua-vung-cao-08-1635289380.jpg",
       "date": "2025-12-16T10:15:00.000Z",
       "author": "PhuongThao",
@@ -32,9 +32,9 @@
     },
     {
       "id": 3,
-      "title": "Cơm tấm đêm Sài Gòn",
-      "location": "TP. Hồ Chí Minh",
-      "description": "Cơm tấm sườn bì chả, linh hồn của ẩm thực Sài Gòn. Miếng sườn nướng than hoa thơm phức, nước mắm kẹo kẹo chan lên cơm nóng hổi. Quán bán đến 2h sáng, cứu đói cho cú đêm.",
+      "title": "Saigon Night Broken Rice",
+      "location": "Ho Chi Minh City",
+      "description": "Broken rice with ribs, skin, and egg meatloaf - the soul of Saigon cuisine. The charcoal-grilled ribs are fragrant, served with thick fish sauce over hot rice. The shop opens until 2am, saving hungry night owls.",
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/8/com-tam-suon-bi-cha-anh-delikitchen-16703179459501600612-1670475400971-1670475401247125865720.jpg",
       "date": "2025-12-15T19:45:00.000Z",
       "author": "TuanKiet",
@@ -43,7 +43,7 @@
         {
           "id": 1,
           "rating": 4,
-          "comment": "Sườn ngon nhưng đợi hơi lâu.",
+          "comment": "Ribs are delicious but had to wait a bit long.",
           "author": "HungLong",
           "date": "2025-12-15T20:00:00.000Z"
         }
@@ -51,9 +51,9 @@
     },
     {
       "id": 4,
-      "title": "Phố cổ Hội An về đêm",
-      "location": "Quảng Nam",
-      "description": "Hội An đẹp nhất là lúc lên đèn. Đi dạo dọc sông Hoài, thả hoa đăng và ăn cao lầu. Không gian yên bình, cổ kính khác hẳn sự xô bồ của thành phố.",
+      "title": "Hoi An Ancient Town at Night",
+      "location": "Quang Nam",
+      "description": "Hoi An is most beautiful when the lanterns light up. Walking along the Hoai River, releasing flower lanterns and eating Cao Lau. The peaceful, ancient space is completely different from the hustle of the city.",
       "image": "https://danangtravelcar.com.vn/wp-content/uploads/2022/07/7-2.jpg",
       "date": "2025-12-14T18:00:00.000Z",
       "author": "NhanDQ",
@@ -62,9 +62,9 @@
     },
     {
       "id": 5,
-      "title": "Hùng vĩ Mã Pí Lèng",
-      "location": "Hà Giang",
-      "description": "Một trong tứ đại đỉnh đèo của Việt Nam. Cung đường uốn lượn bên vực sâu sông Nho Quế xanh ngọc bích. Cảm giác lái xe máy ở đây cực kỳ phê!",
+      "title": "Majestic Ma Pi Leng Pass",
+      "location": "Ha Giang",
+      "description": "One of the four great mountain passes of Vietnam. The winding road runs beside the deep emerald Nho Que river. The feeling of driving a motorbike here is extremely awesome!",
       "image": "https://th.bing.com/th/id/R.4bcc7dd3b99eec519a09fb8650bd5bd4?rik=8MHNYlFh00%2bq9g&pid=ImgRaw&r=0",
       "date": "2025-12-13T14:20:00.000Z",
       "author": "PhuotThu",
@@ -73,9 +73,9 @@
     },
     {
       "id": 6,
-      "title": "Mì Quảng ếch bếp Trang",
-      "location": "Đà Nẵng",
-      "description": "Mì quảng ếch là đặc sản không thể bỏ qua khi đến Đà Nẵng. Ếch được om sả nghệ thơm lừng, ăn kèm rau sống tươi xanh.",
+      "title": "Bep Trang Frog Quang Noodles",
+      "location": "Da Nang",
+      "description": "Frog Quang noodle is a specialty not to be missed when visiting Da Nang. Frogs are braised with fragrant lemongrass and turmeric, served with fresh green vegetables.",
       "image": "https://tripzone.vn/uploads/202101/03/20/150511-m--qu-ng--ch--ngu-n-internet-.jpg",
       "date": "2025-12-12T11:30:00.000Z",
       "author": "FoodReviewer",
