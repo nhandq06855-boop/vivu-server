@@ -103,9 +103,10 @@
 "comments": [
   {
     "id": 1,
-    "rating": 5,  <-- THÊM DÒNG NÀY
+    "rating": 5, 
     "comment": "Quán tủ của mình, trứng đánh rất bông!",
     "author": "Minh Anh",
     "date": "2025-12-17T09:00:00.000Z"
   }
 ]
+
