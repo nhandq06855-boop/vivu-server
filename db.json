@@ -1,0 +1,100 @@
+{
+    "reviews": [
+      {
+        "id": 1,
+        "title": "Cà phê trứng Giảng Võ",
+        "location": "Hà Nội",
+        "description": "Một góc quán nhỏ nhưng ấm cúng. Cà phê trứng ở đây béo ngậy, không bị tanh chút nào. Chủ quán rất thân thiện, nhạc Trịnh du dương hợp mood những ngày mưa.",
+        "image": "https://nhaphonet.vn/wp-content/uploads/2023/04/ca-phe-trung-giang-4.jpg",
+        "date": "2025-12-17T08:30:00.000Z",
+        "author": "NhanDQ",
+        "rating": 5,
+        "comments": [
+          {
+            "id": 1,
+            "rating": 5,
+            "comment": "Quán tủ của mình, trứng đánh rất bông!",
+            "author": "Minh Anh",
+            "date": "2025-12-17T09:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Săn mây Cầu Đất",
+        "location": "Đà Lạt",
+        "description": "Dậy từ 4h sáng để đi săn mây là một trải nghiệm đáng giá. Biển mây bồng bềnh dưới chân đồi chè xanh ngát. Lưu ý là đường đi khá lạnh và sương mù dày, mọi người nhớ mặc ấm.",
+        "image": "https://media.mia.vn/uploads/blog-du-lich/Cau-go-san-may-dalat-tien-canh-tuyet-dep-cua-vung-cao-08-1635289380.jpg",
+        "date": "2025-12-16T10:15:00.000Z",
+        "author": "PhuongThao",
+        "rating": 5,
+        "comments": []
+      },
+      {
+        "id": 3,
+        "title": "Cơm tấm đêm Sài Gòn",
+        "location": "TP. Hồ Chí Minh",
+        "description": "Cơm tấm sườn bì chả, linh hồn của ẩm thực Sài Gòn. Miếng sườn nướng than hoa thơm phức, nước mắm kẹo kẹo chan lên cơm nóng hổi. Quán bán đến 2h sáng, cứu đói cho cú đêm.",
+        "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/8/com-tam-suon-bi-cha-anh-delikitchen-16703179459501600612-1670475400971-1670475401247125865720.jpg",
+        "date": "2025-12-15T19:45:00.000Z",
+        "author": "TuanKiet",
+        "rating": 4,
+        "comments": [
+          {
+            "id": 1,
+            "rating": 4,
+            "comment": "Sườn ngon nhưng đợi hơi lâu.",
+            "author": "HungLong",
+            "date": "2025-12-15T20:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Phố cổ Hội An về đêm",
+        "location": "Quảng Nam",
+        "description": "Hội An đẹp nhất là lúc lên đèn. Đi dạo dọc sông Hoài, thả hoa đăng và ăn cao lầu. Không gian yên bình, cổ kính khác hẳn sự xô bồ của thành phố.",
+        "image": "https://danangtravelcar.com.vn/wp-content/uploads/2022/07/7-2.jpg",
+        "date": "2025-12-14T18:00:00.000Z",
+        "author": "NhanDQ",
+        "rating": 5,
+        "comments": []
+      },
+      {
+        "id": 5,
+        "title": "Hùng vĩ Mã Pí Lèng",
+        "location": "Hà Giang",
+        "description": "Một trong tứ đại đỉnh đèo của Việt Nam. Cung đường uốn lượn bên vực sâu sông Nho Quế xanh ngọc bích. Cảm giác lái xe máy ở đây cực kỳ phê!",
+        "image": "https://th.bing.com/th/id/R.4bcc7dd3b99eec519a09fb8650bd5bd4?rik=8MHNYlFh00%2bq9g&pid=ImgRaw&r=0",
+        "date": "2025-12-13T14:20:00.000Z",
+        "author": "PhuotThu",
+        "rating": 5,
+        "comments": []
+      },
+      {
+        "id": 6,
+        "title": "Mì Quảng ếch bếp Trang",
+        "location": "Đà Nẵng",
+        "description": "Mì quảng ếch là đặc sản không thể bỏ qua khi đến Đà Nẵng. Ếch được om sả nghệ thơm lừng, ăn kèm rau sống tươi xanh.",
+        "image": "https://tripzone.vn/uploads/202101/03/20/150511-m--qu-ng--ch--ngu-n-internet-.jpg",
+        "date": "2025-12-12T11:30:00.000Z",
+        "author": "FoodReviewer",
+        "rating": 4,
+        "comments": []
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "username": "admin",
+        "password": "123",
+        "fullname": "Administrator"
+      },
+      {
+        "id": 2,
+        "username": "nhandq",
+        "password": "123",
+        "fullname": "Doan Quy Nhan"
+      }
+    ]
+  }
