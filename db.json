@@ -6,6 +6,11 @@
       "location": "Hanoi",
       "description": "A small but cozy corner. The egg coffee here is creamy and not fishy at all. The owner is very friendly, melodious Trinh music fits the mood on rainy days.",
       "image": "https://nhaphonet.vn/wp-content/uploads/2023/04/ca-phe-trung-giang-4.jpg",
+      "gallery": [
+        "https://motogo.tours/wp-content/uploads/2024/10/Cafe-Giang-4.jpg",
+        "https://asialinkstravel.com/ckfinder/userfiles/images/destination/vietnam/food/Giang-Cafe.jpeg",
+        "https://i.ytimg.com/vi/v3A3_HHAnno/hqdefault.jpg?v=68f542a5"
+      ],
       "date": "2025-12-17T08:30:00.000Z",
       "author": "NhanDQ",
       "rating": 5,
@@ -16,6 +21,20 @@
           "comment": "My favorite spot, the egg foam is beaten very fluffy!",
           "author": "Minh Anh",
           "date": "2025-12-17T09:00:00.000Z"
+        },
+        {
+          "id": 2,
+          "rating": 5,
+          "comment": "Best egg coffee in Hanoi so far! Highly recommend.",
+          "author": "David",
+          "date": "2025-12-17T10:15:00.000Z"
+        },
+        {
+          "id": 3,
+          "rating": 4,
+          "comment": "Nice vibe but a bit crowded on weekends.",
+          "author": "Sarah",
+          "date": "2025-12-17T11:00:00.000Z"
         }
       ]
     },
@@ -25,10 +44,37 @@
       "location": "Da Lat",
       "description": "Waking up at 4am to hunt clouds is a worthwhile experience. A sea of clouds floats beneath the green tea hills. Note that the road is quite cold and foggy, everyone remember to dress warmly.",
       "image": "https://media.mia.vn/uploads/blog-du-lich/Cau-go-san-may-dalat-tien-canh-tuyet-dep-cua-vung-cao-08-1635289380.jpg",
+      "gallery": [
+        "https://letsflytravel.vn/wp-content/uploads/2024/04/tour-nha-trang-da-lat26-740x490.webp",
+        "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2025/6/23/1cb4ea5e6e5547d7ade66c1359d350a0",
+        "https://artishotel.vn/wp-content/uploads/2021/11/ArtisHotel-san-may-doi-che-cau-dat-da-lat-1.jpg"
+      ],
       "date": "2025-12-16T10:15:00.000Z",
       "author": "PhuongThao",
       "rating": 5,
-      "comments": []
+      "comments": [
+        {
+          "id": 1,
+          "rating": 5,
+          "comment": "The view is breathtaking! Worth the early wake up.",
+          "author": "Mike",
+          "date": "2025-12-16T11:00:00.000Z"
+        },
+        {
+          "id": 2,
+          "rating": 5,
+          "comment": "It was freezing but the photos turned out amazing.",
+          "author": "Linh",
+          "date": "2025-12-16T12:30:00.000Z"
+        },
+        {
+          "id": 3,
+          "rating": 4,
+          "comment": "Too many people, hard to get a solo shot.",
+          "author": "JohnDoe",
+          "date": "2025-12-16T13:45:00.000Z"
+        }
+      ]
     },
     {
       "id": 3,
@@ -36,6 +82,11 @@
       "location": "Ho Chi Minh City",
       "description": "Broken rice with ribs, skin, and egg meatloaf - the soul of Saigon cuisine. The charcoal-grilled ribs are fragrant, served with thick fish sauce over hot rice. The shop opens until 2am, saving hungry night owls.",
       "image": "https://giadinh.mediacdn.vn/296230595582509056/2022/12/8/com-tam-suon-bi-cha-anh-delikitchen-16703179459501600612-1670475400971-1670475401247125865720.jpg",
+      "gallery": [
+        "https://itourvn.com/wp-content/uploads/2014/05/broken-rice-com-tam-1-jpg.webp",
+        "https://kisstour.com/wp-content/uploads/2025/01/R01069_Com-Tam-3.jpg",
+        "https://i.ex-cdn.com/vntravellive.com/files/content/2023/07/06/302163469_616753636819705_5619462335703672813_n-1644.jpg"
+      ],
       "date": "2025-12-15T19:45:00.000Z",
       "author": "TuanKiet",
       "rating": 4,
@@ -46,6 +97,20 @@
           "comment": "Ribs are delicious but had to wait a bit long.",
           "author": "HungLong",
           "date": "2025-12-15T20:00:00.000Z"
+        },
+        {
+          "id": 2,
+          "rating": 5,
+          "comment": "Authentic Saigon taste! The fish sauce is key.",
+          "author": "An",
+          "date": "2025-12-15T21:15:00.000Z"
+        },
+        {
+          "id": 3,
+          "rating": 5,
+          "comment": "Perfect for late night cravings.",
+          "author": "NightOwl",
+          "date": "2025-12-16T01:00:00.000Z"
         }
       ]
     },
@@ -55,10 +120,37 @@
       "location": "Quang Nam",
       "description": "Hoi An is most beautiful when the lanterns light up. Walking along the Hoai River, releasing flower lanterns and eating Cao Lau. The peaceful, ancient space is completely different from the hustle of the city.",
       "image": "https://danangtravelcar.com.vn/wp-content/uploads/2022/07/7-2.jpg",
+      "gallery": [
+        "https://phongnhalocals.com/wp-content/uploads/2022/11/Hoi-An-By-Night-Walking-Tour-Phong-Nha-Locals-3.png",
+        "https://vietnam.travel/sites/default/files/inline-images/11125-Qu%E1%BA%A3ng%20Nam-huybank%40gmail.com-hoi%20an%20ve%20dem%20.jpg",
+        "https://thedeckhousevietnam.com/wp-content/uploads/2025/02/image6-1-1024x576.webp"
+      ],
       "date": "2025-12-14T18:00:00.000Z",
       "author": "NhanDQ",
       "rating": 5,
-      "comments": []
+      "comments": [
+        {
+          "id": 1,
+          "rating": 5,
+          "comment": "So romantic! A must-visit place in Vietnam.",
+          "author": "Emily",
+          "date": "2025-12-14T19:00:00.000Z"
+        },
+        {
+          "id": 2,
+          "rating": 5,
+          "comment": "The boat ride was magical.",
+          "author": "Tom",
+          "date": "2025-12-14T20:30:00.000Z"
+        },
+        {
+          "id": 3,
+          "rating": 4,
+          "comment": "Beautiful but food prices are a bit high for tourists.",
+          "author": "LocalGuide",
+          "date": "2025-12-14T21:00:00.000Z"
+        }
+      ]
     },
     {
       "id": 5,
@@ -66,10 +158,30 @@
       "location": "Ha Giang",
       "description": "One of the four great mountain passes of Vietnam. The winding road runs beside the deep emerald Nho Que river. The feeling of driving a motorbike here is extremely awesome!",
       "image": "https://th.bing.com/th/id/R.4bcc7dd3b99eec519a09fb8650bd5bd4?rik=8MHNYlFh00%2bq9g&pid=ImgRaw&r=0",
+      "gallery": [
+        "https://theterribletourguide.com/wp-content/uploads/2019/08/Ma-Pi-Leng-%E2%80%93-the-extreme-of-danger-and-effort-to-open-the-way-to-the-stone-plateau.jpg",
+        "https://izitour.com/media/ckeditor/passo-ma-pi-leng-ha-giang-1.webp",
+        "https://redbullvietnam.com/uploads/articles/66/chinh_phuc_vua_cua_cac_cung_deo_ma_pi_leng_3.jpg"
+      ],
       "date": "2025-12-13T14:20:00.000Z",
       "author": "PhuotThu",
       "rating": 5,
-      "comments": []
+      "comments": [
+        {
+          "id": 1,
+          "rating": 5,
+          "comment": "Dangerous roads but the view is absolutely worth it.",
+          "author": "BikerVN",
+          "date": "2025-12-13T15:00:00.000Z"
+        },
+        {
+          "id": 2,
+          "rating": 5,
+          "comment": "Look at that river color! Stunning.",
+          "author": "NatureLover",
+          "date": "2025-12-13T16:20:00.000Z"
+        }
+      ]
     },
     {
       "id": 6,
@@ -77,10 +189,37 @@
       "location": "Da Nang",
       "description": "Frog Quang noodle is a specialty not to be missed when visiting Da Nang. Frogs are braised with fragrant lemongrass and turmeric, served with fresh green vegetables.",
       "image": "https://tripzone.vn/uploads/202101/03/20/150511-m--qu-ng--ch--ngu-n-internet-.jpg",
+      "gallery": [
+        "https://media-cdn-v2.laodong.vn/storage/newsportal/2024/12/24/1440023/Mi-Quang-3.jpg",
+        "https://img-global.cpcdn.com/recipes/d299239a8664f393/680x781cq80/mi-quang-frog-noodles-recipe-main-photo.jpg",
+        "https://imagevietnam.vnanet.vn/Upload/2017/10/5/05102017093002557-MY-QUANG-05_resize.JPG"
+      ],
       "date": "2025-12-12T11:30:00.000Z",
       "author": "FoodReviewer",
       "rating": 4,
-      "comments": []
+      "comments": [
+        {
+          "id": 1,
+          "rating": 4,
+          "comment": "Very unique taste, the frog meat is tender.",
+          "author": "GourmetHunter",
+          "date": "2025-12-12T12:00:00.000Z"
+        },
+        {
+          "id": 2,
+          "rating": 5,
+          "comment": "Spicy and flavorful. Loved the fresh herbs.",
+          "author": "HealthyEats",
+          "date": "2025-12-12T12:45:00.000Z"
+        },
+        {
+          "id": 3,
+          "rating": 3,
+          "comment": "Good but a bit too salty for my taste.",
+          "author": "Tourist123",
+          "date": "2025-12-12T13:30:00.000Z"
+        }
+      ]
     }
   ],
   "users": [
